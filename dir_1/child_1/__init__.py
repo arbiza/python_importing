@@ -1,1 +1,1 @@
-from .child_1 import func_child_1
+from .child_1 import *

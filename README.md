@@ -4,10 +4,10 @@ Some additional functions were added. The following changes were made to make th
 
 ```python
 # dir_1's __init__.py
-from .dir_1 import *
+from .dir_1_file import *
 
 # dir_2's __init__.py
-from .dir_2 import *
+from .dir_2_file import *
 ```
 
 In the main.py file, the imports were changed to:

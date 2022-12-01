@@ -1,1 +1,1 @@
-from .dir_1 import func_dir_1
+from .dir_1_file import func_dir_1

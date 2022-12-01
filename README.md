@@ -7,10 +7,10 @@ import dir_1
 import dir_2
 ```
 
-The __init__.py files import the functions from the file in the current directory (.dir_X).
+The \__init\__.py files import the functions from the file in the current directory (.dir_X).
 
 ```python
-from .dir_1 import func_dir_1
+from .dir_1_file import func_dir_1
 ```
 
 # Running

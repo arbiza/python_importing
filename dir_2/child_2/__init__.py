@@ -1,1 +1,1 @@
-from .child_2 import *
+from .child_2_file import *

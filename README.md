@@ -31,8 +31,16 @@ child_2.access_child_1()
 
 # Running
 
-From the root directory, run:
+## Example 1
 
 ```
+cd example_1
 python main.py
+```
+
+## Example 2
+
+```
+cd example_2
+python 
 ```

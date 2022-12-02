@@ -1,1 +1,1 @@
-from .main import *
+from .main import dumb_echo
